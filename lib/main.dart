@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
         title: Text('Bookies',style: TextStyle(color: Colors.amber)),
         centerTitle: true,
       ),
+
     );
   }
 }
