@@ -13,13 +13,15 @@ class MyApp extends StatelessWidget {
       backgroundColor: Colors.blueGrey[400],
       appBar: AppBar(
         backgroundColor: Colors.blueGrey,
-        title: Text('Bookies',style: TextStyle(color: Colors.amber)),
+        title: Text('Bookies',style: TextStyle(color: Colors.amber,fontSize: 21.00)),
         centerTitle: true,
       ),
-
     );
   }
 }
+
+
+
 
 
 
